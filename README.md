@@ -20,9 +20,3 @@ Exercise:
 
 References:
 - Dataset: "IMDb Movie Ratings" on Kaggle (https://www.kaggle.com/tmdb/tmdb-movie-metadata)
-- pandas Documentation (https://pandas.pydata.org/docs/)
-- matplotlib Documentation (https://matplotlib.org/stable/contents.html)
-- numpy Documentation (https://numpy.org/doc/)
-- Pearson Correlation Coefficient (https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
-
-https://chat.openai.com/c/c94b3ce7-edb2-4da3-98d6-84547646bed0
